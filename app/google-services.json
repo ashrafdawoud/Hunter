@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86068974694",
+    "firebase_url": "https://hunter-8f4d1.firebaseio.com",
+    "project_id": "hunter-8f4d1",
+    "storage_bucket": "hunter-8f4d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86068974694:android:2fe91e04419a04a556c9a7",
+        "android_client_info": {
+          "package_name": "com.indrul.hunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86068974694-o10tandlt681lepvvevte2tsg3uj95eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indrul.hunter",
+            "certificate_hash": "5959c3acf990612bb7b79320d048a51f021496df"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx8-ObGPyQB_nRxubEdNAEvaNfk77K2YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86068974694-i8fof01kue53eeaabb2792baf82ng452.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.greenhat.hunter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

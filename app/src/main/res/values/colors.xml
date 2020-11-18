@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="splash_back_color">#E99E82</color>
+    <color name="blue">#4e54c8</color>
+    <color name="homebagetabs">#af68f6</color>
+</resources>
